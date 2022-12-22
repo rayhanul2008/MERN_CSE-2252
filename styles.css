@@ -1,0 +1,63 @@
+.blog {
+    border: 10px solid salmon;
+    border-radius: 10px;
+    margin: 10px 20px 300px 200px;
+    margin-bottom: 30px;
+    padding: 10px 20px 30px 50px;
+    background-color: rgb(226, 247, 230);
+    width: 40%;
+}
+
+.blog1 {
+    border: 40px solid rgb(132, 179, 221);
+    width: 40%;
+    margin: 20px;
+    padding: 30px;
+    float: left;
+    display: inline;
+}
+
+h1 {
+
+    text-align: center;
+    color: royalblue;
+
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: blueviolet;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: aqua;
+    font-size: 20px;
+}
+
+h4 {
+    color: rgb(79, 132, 179);
+
+}
+
+p {
+    color: royalblue;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.friends {
+    background-color: greenyellow;
+}
+
+.neighbor {
+    background-color: rgb(163, 191, 216);
+}
+
+#roast {
+    text-align: center;
+    font-size: 40px;
+}
